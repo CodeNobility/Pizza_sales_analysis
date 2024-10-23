@@ -1,0 +1,6 @@
+
+*.sql linguist-language=SQL
+
+*.pdf linguist-documentation
+*.md linguist-documentation
+*.png linguist-vendored
